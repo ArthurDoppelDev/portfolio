@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+:root{
+  --primary-color: #fff;
+  --secondary-color: #9de1fd;
+  --tertiary-color:#ffd31a;
+}
+
+*{
+  font-family: 'Open Sans',Arial,sans-serif;
+  margin: 0px;
+}
+
+.top{
+  display: inline-block;
+}
+.titulo{
+  display: inline-flex;
+}
+.nome{
+  font-size: 30px;
+}
+.cargo{
+  font-size: 42px;
+}
+
+.fa-brands{
+  font-size: 30px;
+  margin-top: 8px;
+  margin-left: 10px;
+  cursor: pointer;
+}
+
