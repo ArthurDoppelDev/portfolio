@@ -25,9 +25,20 @@
 }
 
 .fa-brands{
+  color: black;
   font-size: 30px;
   margin-top: 8px;
   margin-left: 10px;
   cursor: pointer;
+}
+
+.project-card{
+  display: flex;
+  width: 250px;
+  margin-top: 50px;
+  padding: 200px 0px;
+  border-radius: 16px;
+  background-color: var(--secondary-color);
+  color: white;
 }
 
